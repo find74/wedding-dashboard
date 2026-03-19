@@ -16,7 +16,8 @@ st.set_page_config(
     page_title="💍 42272",
     layout="wide",
     page_icon="💍",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded",
+    theme="light"
 )
 
 # --- CUSTOM CSS (Force Light Mode + Elegant Wedding Theme) ---
